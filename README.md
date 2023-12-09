@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/HabibMia2121/HabibMia2121/main/assets/image/github-banner-photo.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/HabibMia2121/HabibMia2121/main/assets/image/github-banner.jpg "San Juan Mountains")
 
 
 **About Me**
