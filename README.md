@@ -12,7 +12,7 @@ Hello, I’m Habib, I am working on MERN Stack.some of my technology use HTML,CS
   
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,bootstrap,tailwindcss,js,react,nodejs,express,mongodb,vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,bootstrap,tailwindcss,js,react,nodejs,express,firebase,mongodb,vscode,git,github,figma)](https://skillicons.dev)
 
 ## 📊 Current Github Status
 
