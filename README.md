@@ -7,13 +7,9 @@ Hello, I’m Habib, I am working on MERN Stack.some of my technology use HTML,CS
 
 ## 🌐 Socials
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib2121/)
  [![Email](https://img.shields.io/badge/Email-green)](mailto:habibmia21021@gmail.com)
   
- </div>
-
 ## 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=,html,css,bootstrap,tailwindcss,js,react,nodejs,express,mongodb,vscode,git,github,figma)](https://skillicons.dev)
