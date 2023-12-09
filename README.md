@@ -1,16 +1,14 @@
-### Hi there 👋
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/HabibMia2121/HabibMia2121/main/assets/image/github-banner-photo.png "San Juan Mountains")
 
-<!--
-**HabibMia2121/HabibMia2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About Me**
+---
+Hello, I’m Habib, I am working on MERN Stack.some of my technology use HTML,CSS, Bootstrap, Tailwindcss, React and Node js  comfortably and easily handling and there are many projects developed using MERN stack technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+---
+[![My Skills](https://skillicons.dev/icons?i=,html,css,bootstrap,tailwindcss,js,react,nodejs,express,mongodb,vscode,git,github,figma)](https://skillicons.dev)
+
+**Current Github Status**
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HabibMia2121&theme=dayfox)](https://git.io/streak-stats)
